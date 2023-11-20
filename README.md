@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @smetaj
+- 👋 Hi, I’m Andrew Smet
 - 🌱 I’m currently learning C++
 - 📫 How to reach me: asmet@uci.edu
 
